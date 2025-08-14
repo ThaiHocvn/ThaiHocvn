@@ -31,5 +31,10 @@
 ---
 
 ## 📫 Liên hệ:
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/Leebask.K](https://www.facebook.com/thaihoc.cao.9/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cao-thai-hoc-56049523b/)
+<a href="https://www.facebook.com/thaihoc.cao.9/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://www.linkedin.com/in/cao-thai-hoc-56049523b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
